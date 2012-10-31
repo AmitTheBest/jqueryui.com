@@ -2,3 +2,4 @@ RewriteEngine on
 RewriteBase /
 RewriteRule ^(index.php.*)$     $1          [L]
 RewriteRule ^[^\.]*$            index.php   [L]
+RewriteRule .html$              index.php   [L]
