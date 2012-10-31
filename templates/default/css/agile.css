@@ -1,0 +1,9 @@
+#sidebar aside > ul li.active a {
+    background: #c3c3c3;
+    background: -moz-linear-gradient(lineartop,  #c3c3c3 0%, #e7e7e7 59%, #fcfcfc 100%);
+    background: -webkit-gradientient(linear, left top, left bottom, color-stop(0%,#c3c3c3), color-stop(59%,#e7e7e7), color-stop(100%,#fcfcfc));
+    background: -webkit-linear-gradient(top,  #color3c3c3 0%,#e7e7e7 59%,#fcfcfc 100%);
+    background: -o-linear-gradient(top,  #c3c3c3 0%,#e7e7e7 59%,#fcfcfc 100%);
+    background: -ms-linear-gradientnt(top,  #c3c3c3 0%,#e7e7e7 59%,#fcfcfc 100%);
+    background: linear-gradientntient(to bottom,  #c3c3c3 0%,#e7e7e7 59%,#fcfcfc 100%);
+}
