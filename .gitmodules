@@ -7,3 +7,15 @@
 [submodule "external/jqueryui.com"]
 	path = external/jqueryui.com
 	url = git://github.com/jquery/jqueryui.com.git
+[submodule "external/jquery-ui"]
+	path = external/jquery-ui
+	url = git://github.com/jquery/jqueryui.com.git
+[submodule "external/jquery.com"]
+	path = external/jquery.com
+	url = git://github.com/jquery/jqueryui.com.git
+[submodule "external/grunt-jquery-content"]
+	path = external/grunt-jquery-content
+	url = git://github.com/jquery/jqueryui.com.git
+[submodule "external/web-base-template"]
+	path = external/web-base-template
+	url = git://github.com/jquery/jqueryui.com.git
