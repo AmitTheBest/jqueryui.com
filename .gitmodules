@@ -4,3 +4,6 @@
 [submodule "atk4-addons"]
 	path = atk4-addons
 	url = git@github.com:atk4/atk4-addons.git
+[submodule "external/jqueryui.com"]
+	path = external/jqueryui.com
+	url = git://github.com/jquery/jqueryui.com.git
